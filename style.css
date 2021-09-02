@@ -6,7 +6,4 @@
 .page-wrapper .top-bar .row {
   background: black;
   background-image: url('redhat.png');
-  width: 60px;
-  height: 60px;
-  background-position: top;
 }
