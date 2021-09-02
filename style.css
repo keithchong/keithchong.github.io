@@ -1,6 +1,8 @@
-h1 {color: blue;}
 .nav-bar {
   color: black;
   background-color: black;
+  background: black;
+}
+.top-bar {
   background: black;
 }
