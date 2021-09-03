@@ -19,6 +19,10 @@
   content: url('https://keithchong.github.io/openshift-platform-logo.svg');
 }
 
-.page-wrapper .page__content-wrapper {
-  padding: 20px;
+.application-details .page .top-bar .row::before {
+  content: url('https://keithchong.github.io/openshift-platform-logo.svg');
+}
+
+.page-wrapper .page__content-wrapper .top-bar.row {
+  padding: 20px 15px;
 }
