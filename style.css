@@ -10,3 +10,7 @@
 .application-details .page .top-bar .row {
   background: black;
 }
+
+.top-bar__breadcrumbs {
+  color: lightblue;
+}
