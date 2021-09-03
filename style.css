@@ -15,6 +15,6 @@
   color: lightblue;
 }
 
-.columns.top-bar__left-side::before {
-  content: '<div style="width:140px;margin-left:10px;margin-top:2px;margin-bottom:2px" class="columns2"><img src="https://keithchong.github.io/openshift-platform-logo.svg"></div>'
+.page-wrapper .top-bar .row::before {
+  content: url("https://keithchong.github.io/openshift-platform-logo.svg")
 }
