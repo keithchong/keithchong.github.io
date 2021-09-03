@@ -16,5 +16,5 @@
 }
 
 .page-wrapper .top-bar .row::before {
-  content: url("https://keithchong.github.io/openshift-platform-logo.svg")
+  content: url('https://keithchong.github.io/openshift-platform-logo.svg');
 }
