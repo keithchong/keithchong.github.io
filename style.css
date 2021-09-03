@@ -31,10 +31,18 @@
   content: url('https://keithchong.github.io/openshift-platform-logo.svg');
 }
 
+.top-bar .row::before {
+  content: url('https://keithchong.github.io/openshift-platform-logo.svg');
+}
+
 .page-wrapper .page__content-wrapper  {
   margin-top: 20px;
 }
 
 .application-details .page__content-wrapper {
+  margin-top: 20px;
+}
+
+.page__content-wrapper {
   margin-top: 20px;
 }
