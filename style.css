@@ -18,3 +18,7 @@
 .page-wrapper .top-bar .row::before {
   content: url('https://keithchong.github.io/openshift-platform-logo.svg');
 }
+
+.page-wrapper .page__content-wrapper {
+  padding: 20px;
+}
