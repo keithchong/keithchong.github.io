@@ -46,3 +46,7 @@
 .page__content-wrapper {
   margin-top: 20px;
 }
+
+.ui-banner {
+  background-color: black;
+}
